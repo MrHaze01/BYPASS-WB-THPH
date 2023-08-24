@@ -1,6 +1,7 @@
 # Thunderous Bypass Webshell
 ![image](https://www.linkpicture.com/q/orca-image-1836003651.jpeg)
-Coded by: Ph.Tex 
+Coded by: Ph.Tex
+Repost By Mr.Haze
 
 •Thunderous Hackers.Ph Bypass Webshell
 
@@ -25,7 +26,9 @@ Coded by: Ph.Tex
 ![image](https://www.linkpicture.com/q/received_287619703885934.jpeg)
 
 • Mass Deface X
+
 • Mass Zone-h X
+
 • Mass Backdoor X
 
 # Download
