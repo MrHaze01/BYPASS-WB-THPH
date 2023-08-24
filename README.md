@@ -1,7 +1,6 @@
 # Thunderous Bypass Webshell
 ![image](https://www.linkpicture.com/q/orca-image-1836003651.jpeg)
-Coded by: Ph.Tex
-Repost By Mr.Haze
+Coded by: Ph.Tex | Repost By Mr.Haze
 
 •Thunderous Hackers.Ph Bypass Webshell
 
